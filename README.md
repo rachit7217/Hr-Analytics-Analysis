@@ -1,5 +1,5 @@
 # Hr-Analytics-Analysis
-
+![logo](https://github.com/rachit7217/Hr-Analytics-Analysis/blob/main/Dashboard%202%20Hr%20Analytics%20.png)
 **Project Summary: HR Analytics Analysis Dashboard**
 
 This project focuses on developing an HR Analytics Dashboard using Power BI, Excel, and SQL to enhance decision-making processes in human resource management. The dashboard aims to provide a comprehensive view of employee performance, turnover rates, recruitment metrics, and diversity analytics, thereby enabling HR leaders to make data-driven decisions.
